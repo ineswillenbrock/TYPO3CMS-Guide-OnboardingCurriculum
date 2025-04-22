@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1:
+.. _s0-d4:
 
 ======================================================
 Day 4 — Development to Production: The TYPO3 Lifecycle
 ======================================================
 
-.. _s5-d1-lessons:
+.. _s0-d4-lessons:
 
 Today's lessons
 ===============
@@ -28,19 +28,19 @@ These visual examples will prepare students for the in-depth deployment training
     Lesson-7
 
 
-.. _s5-d4-prerequisites-goals:
+.. _s0-d4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d4-prerequisites:
+.. _s0-d4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s5-d4-theoretical-prerequisites:
+.. _s0-d4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ This day assumes that you already know the following:
 * That websites go through multiple stages—such as development, testing, and production—before going live
 
 
-.. _s5-d4-practical-prerequisites:
+.. _s0-d4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,12 +63,12 @@ Before you start this day, please have the following things ready:
 * :ref:`The General Practical Prerequisites for Stage 0 <s0-practical-prerequisites>`
 
 
-.. _s5-d4-goals:
+.. _s0-d4-goals:
 
 Goals
 -----
 
-.. _s5-d4-theoretical-goals:
+.. _s0-d4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ By the end of this day, you should know the following:
 * How caching and performance optimization impact website speed and reliability
 
 
-.. _s5-d4-practical-goals:
+.. _s0-d4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

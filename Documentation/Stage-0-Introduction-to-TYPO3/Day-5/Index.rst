@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1:
+.. _s0-d5:
 
 ==============================
 Day 5 — TYPO3 in the Long Term
 ==============================
 
-.. _s5-d1-lessons:
+.. _s0-d5-lessons:
 
 Today's lessons
 ===============
@@ -28,19 +28,19 @@ These demonstrations will establish the importance of proper maintenance procedu
     Lesson-7
 
 
-.. _s5-d5-prerequisites-goals:
+.. _s0-d5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d5-prerequisites:
+.. _s0-d5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s5-d5-theoretical-prerequisites:
+.. _s0-d5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ This day assumes that you already know the following:
 * That ongoing maintenance is essential to ensure a TYPO3 project remains secure, up-to-date, and efficient over time
 
 
-.. _s5-d5-practical-prerequisites:
+.. _s0-d5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,12 +63,12 @@ Before you start this day, please have the following things ready:
 * :ref:`The General Practical Prerequisites for Stage 0 <s0-practical-prerequisites>`
 
 
-.. _s5-d5-goals:
+.. _s0-d5-goals:
 
 Goals
 -----
 
-.. _s5-d5-theoretical-goals:
+.. _s0-d5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ By the end of this day, you should know the following:
 * How to plan for long-term website growth and scalability
 
 
-.. _s5-d5-practical-goals:
+.. _s0-d5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
